@@ -12,8 +12,6 @@ class Learn02 {
     val fields = pre_data.map(line => line.trim().replace("  ", " ").replace(" ", ""))
       .foreach(println(_))
 
-    println("===================")
-
   }
 }
 
