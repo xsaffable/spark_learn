@@ -2,6 +2,9 @@ package com.gjxx.spark_learn
 
 import org.apache.spark.SparkContext
 
+/**
+  * 注释
+  */
 class Learn02 {
   def start(): Unit = {
     val sc = new SparkContext("local[4]", "Learn02")
