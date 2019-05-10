@@ -1,4 +1,4 @@
-package com.gjxx.spark_learn
+package com.gjxx.scala.spark_learn
 
 import java.util.{Properties, UUID}
 
