@@ -9,7 +9,7 @@ import org.apache.spark.sql.types.{DataTypes, StructField}
 
 import scala.collection.mutable.ListBuffer
 
-class TextToMysql {
+class Text2Mysql {
 
   val sc = new SparkContext("local[4]", "TextToMysql")
   val spark = SparkSession.builder().getOrCreate()
@@ -87,8 +87,8 @@ class TextToMysql {
 
 }
 
-object TextToMysql {
+object Text2Mysql {
   def main(args: Array[String]): Unit = {
-    new TextToMysql().start()
+    new Text2Mysql().start()
   }
 }
