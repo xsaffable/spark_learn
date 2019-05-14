@@ -26,7 +26,7 @@ object DataDeal {
       .map(toBorrowRecord)
       .map(getUserId)
       .groupByKey() // 按userId分组，获得每个用户所有的借阅记录
-      .map(line => (line._1, line._2.toList)) // 把节约俱卢转换成list
+      .map(line => (line._1, line._2.toList)) // 把借阅记录转换成list
 //      .foreach(line => println(line))
 
   }
