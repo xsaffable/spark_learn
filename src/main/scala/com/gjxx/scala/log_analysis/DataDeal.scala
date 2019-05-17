@@ -24,10 +24,11 @@ object DataDeal {
       .map(_.split("\\]\\,"))
       // 转换成BorrowRecord对象
       .map(toBorrowRecord)
+      // 去除还书的记录
+      .filter(x => x.asInstanceOf[BorrowRecord].isBorrow == "0")
       .map(getUserId)
       .groupByKey() // 按userId分组，获得每个用户所有的借阅记录
       .map(line => (line._1, line._2.toList)) // 把借阅记录转换成list
-//      .foreach(line => println(line))
 
   }
 
