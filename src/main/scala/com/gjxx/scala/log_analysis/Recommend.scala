@@ -29,7 +29,7 @@ object Recommend {
       val noBorrBooksRDD = dataSet.filter(_.borred == "0")
 
       // 获得每本没有借过书的预测类型
-      val preBorrBooksRDD = noBorrBooksRDD.map(book => {
+      val preBorrBooks = noBorrBooksRDD.map(book => {
         // knn计算该书的分类
         // 0->不该被借
         // 1->应该被借
@@ -38,11 +38,11 @@ object Recommend {
         book
       })
 
-      println("============start=======================")
-      println(userId)
-      preBorrBooksRDD.filter(_.borred == "1").foreach(println)
-      println("============stop=======================")
-
+      // 取到预测的用户喜欢的书籍对应的book_id
+      val recomm_record = preBorrBooks.filter(_.borred == "1").map(book => (userId, book.book_id))
+      val df = BooksData.getDF(recomm_record, spark)
+      // 写入mysql
+      BooksData.toMysql(df)
     }
 
     sc.stop()

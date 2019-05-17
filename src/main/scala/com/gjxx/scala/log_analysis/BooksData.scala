@@ -3,7 +3,10 @@ package com.gjxx.scala.log_analysis
 import java.util.Properties
 
 import com.gjxx.scala.log_analysis.DataDeal.BorrowRecord
-import org.apache.spark.sql.{DataFrame, SparkSession}
+import org.apache.spark.sql._
+import org.apache.spark.sql.types.{DataTypes, StructField}
+
+import scala.collection.mutable.ListBuffer
 
 object BooksData {
 
@@ -12,6 +15,36 @@ object BooksData {
   prop.put("password", "1234")
   prop.put("url", "jdbc:mysql://47.93.4.111:3306/library?useUnicode=true&characterEncoding=utf-8")
   prop.put("tableName", "book")
+
+
+  /**
+    * 写入到mysql
+    * @param df
+    */
+  def toMysql(df: DataFrame): Unit = {
+    df.write.mode(SaveMode.Append).jdbc(prop.getProperty("url"), "recomm_record", prop)
+  }
+
+
+  /**
+    * 获得dataframe
+    * @param recomm_record
+    * @param spark
+    * @return
+    */
+  def getDF(recomm_record: List[(String, String)], spark: SparkSession): DataFrame = {
+    val rows = recomm_record.map(line => {
+      RowFactory.create(line._1, line._2)
+    })
+
+    val structFields = new ListBuffer[StructField]
+    structFields.append(DataTypes.createStructField("user_id", DataTypes.StringType, false))
+    structFields.append(DataTypes.createStructField("book_id", DataTypes.StringType, false))
+    // 构建StructType，用于最后的DataFrame元数据描述
+    val structType = DataTypes.createStructType(structFields.toArray)
+    // 构造DataFrame
+    spark.createDataFrame(spark.sparkContext.parallelize(rows), structType)
+  }
 
   /**
     * 获得所有的书
