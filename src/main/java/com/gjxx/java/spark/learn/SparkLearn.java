@@ -1,4 +1,4 @@
-package com.gjxx.java.spark_learn;
+package com.gjxx.java.spark.learn;
 
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;

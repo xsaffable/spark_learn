@@ -1,4 +1,4 @@
-package com.gjxx.java.spark_learn;
+package com.gjxx.java.spark.learn;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;

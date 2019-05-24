@@ -1,4 +1,4 @@
-package com.gjxx.java.hbase_learn;
+package com.gjxx.java.hbase.learn;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
@@ -8,6 +8,9 @@ import org.apache.hadoop.hbase.util.Bytes;
 import java.io.IOException;
 import java.util.Date;
 
+/**
+ * @author Admin
+ */
 public class Learn01 {
 
     public static void main(String[] args) throws IOException {

@@ -1,4 +1,4 @@
-package com.gjxx.java.hbase_learn;
+package com.gjxx.java.hbase.learn;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
