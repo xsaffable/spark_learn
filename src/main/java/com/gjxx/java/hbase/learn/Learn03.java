@@ -40,7 +40,9 @@ public class Learn03 {
                 lastRow = result.getRow();
             }
             scanner.close();
-            if (localRows == 0) break;
+            if (localRows == 0) {
+                break;
+            }
         }
         System.out.println("total rows: " + totalRows);
 
