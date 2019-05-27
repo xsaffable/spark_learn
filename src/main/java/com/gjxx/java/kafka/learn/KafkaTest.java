@@ -6,7 +6,7 @@ package com.gjxx.java.kafka.learn;
 public class KafkaTest {
 
     public static void main(String[] args) {
-
+        KafkaUtil.send();
     }
 
 }
