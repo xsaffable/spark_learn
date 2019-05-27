@@ -1,4 +1,4 @@
-package com.gjxx.java.phoenix;
+package com.gjxx.java.phoenix.learn;
 
 /**
  * phoenix的测试类

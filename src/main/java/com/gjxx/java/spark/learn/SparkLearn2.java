@@ -19,6 +19,9 @@ import scala.Tuple2;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author Admin
+ */
 public class SparkLearn2 {
 
     public static void main(String[] args) {

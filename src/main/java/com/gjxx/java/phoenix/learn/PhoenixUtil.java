@@ -1,4 +1,4 @@
-package com.gjxx.java.phoenix;
+package com.gjxx.java.phoenix.learn;
 
 import lombok.extern.log4j.Log4j2;
 import org.apache.spark.sql.Dataset;
