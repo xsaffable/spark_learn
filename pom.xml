@@ -17,6 +17,8 @@
         <kafka.version>2.1.0</kafka.version>
         <mysql.version>5.1.10</mysql.version>
         <hbase-spark.version>1.2.0-cdh5.15.0</hbase-spark.version>
+        <phoenix.version>4.7.0-HBase-1.1</phoenix.version>
+        <elasticsearch.version>7.1.1</elasticsearch.version>
         <scope.value>provided</scope.value>
     </properties>
 
@@ -115,14 +117,44 @@
         <dependency>
             <groupId>org.apache.phoenix</groupId>
             <artifactId>phoenix-core</artifactId>
-            <version>4.7.0-HBase-1.1</version>
+            <version>${phoenix.version}</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.phoenix/phoenix-spark -->
         <dependency>
             <groupId>org.apache.phoenix</groupId>
             <artifactId>phoenix-spark</artifactId>
-            <version>4.7.0-HBase-1.1</version>
+            <version>${phoenix.version}</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+            <version>${elasticsearch.version}</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client -->
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-client</artifactId>
+            <version>${elasticsearch.version}</version>
+        </dependency>
+
+
+        <!-- https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client -->
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-high-level-client</artifactId>
+            <version>${elasticsearch.version}</version>
+        </dependency>
+
+        <!--创建es客户端出错,解决-->
+        <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.2</version>
         </dependency>
 
     </dependencies>
