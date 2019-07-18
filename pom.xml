@@ -19,6 +19,7 @@
         <hbase-spark.version>1.2.0-cdh5.15.0</hbase-spark.version>
         <phoenix.version>4.7.0-HBase-1.1</phoenix.version>
         <elasticsearch.version>7.1.1</elasticsearch.version>
+        <breeze.version>0.13.2</breeze.version>
         <scope.value>provided</scope.value>
     </properties>
 
@@ -59,6 +60,12 @@
             <version>${spark.version}</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.scalanlp/breeze -->
+        <dependency>
+            <groupId>org.scalanlp</groupId>
+            <artifactId>breeze_${scala.version}</artifactId>
+            <version>${breeze.version}</version>
+        </dependency>
 
         <!--hbase-->
         <dependency>
