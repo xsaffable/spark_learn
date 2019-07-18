@@ -22,7 +22,7 @@ public class KafkaUtil {
     public static void send() {
         Properties props = new Properties();
         try {
-            props.load(ClassLoader.getSystemResourceAsStream("kafka_producer.properties"));
+            props.load(ClassLoader.getSystemResourceAsStream("dev/kafka_producer.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }

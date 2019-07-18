@@ -35,7 +35,7 @@ public class PhoenixUtil {
     public static void read(String dbtable) {
 
         try {
-            prop.load(ClassLoader.getSystemResourceAsStream("phoenix.properties"));
+            prop.load(ClassLoader.getSystemResourceAsStream("dev/phoenix.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }
