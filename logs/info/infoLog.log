@@ -1,0 +1,439 @@
+2019-05-24 19:16:06.736 [main-20] ERROR com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:17:10.158 [main-20] ERROR com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:18:48.431 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:19:43.565 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:20:10.062 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:21:14.663 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:21:54.448 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:23:35.426 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:24:36.024 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:25:12.492 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:25:13.329 [main-30] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 30 loadCoprocessor - [Lorg.apache.hadoop.hbase.HTableDescriptor;@38f116f6
+2019-05-24 19:27:15.471 [main-20] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 20 loadCoprocessor - load coprocessor...
+2019-05-24 19:27:16.294 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@38f116f6
+2019-05-24 19:27:16.294 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@5286c33a
+2019-05-24 19:27:16.294 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@6e6d5d29
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@5c530d1e
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@6c25e6c4
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@85e6769
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@c5ee75e
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@48a12036
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@bf1ec20
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@70efb718
+2019-05-24 19:27:16.295 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@b70da4c
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@4a11eb84
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@4e858e0a
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@435fb7b5
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@4e70a728
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@b7838a9
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@696f0212
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@5733f295
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@1c3146bc
+2019-05-24 19:27:16.296 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@56c698e3
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@47a86fbb
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@f478a81
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@19553973
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@7bb6ab3a
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@7fe7c640
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@4c4748bf
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@7ce97ee5
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@32c8e539
+2019-05-24 19:27:16.297 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@73dce0e6
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@5a85c92
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@32811494
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@4795ded0
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@53dacd14
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@14d14731
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@2eced48b
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@47c4ecdc
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@42f33b5d
+2019-05-24 19:27:16.298 [main-32] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 32 loadCoprocessor - [B@5c8504fd
+2019-05-24 19:27:38.244 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:27:39.149 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:27:39.150 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:27:39.151 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:27:39.152 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:27:39.153 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:27:39.154 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:27:39.154 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:30:32.547 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:30:33.386 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:30:33.386 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:30:33.386 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:30:33.387 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:30:33.388 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:30:33.389 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:30:33.390 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:32:23.955 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:32:24.774 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:32:24.775 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:32:24.776 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:32:24.777 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:32:24.778 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:32:24.779 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:32:24.779 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:32:37.875 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:32:38.730 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:32:38.731 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:32:38.732 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:32:38.733 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:32:38.734 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:41:45.794 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:41:46.643 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:41:46.643 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:41:46.644 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:41:46.645 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:41:46.646 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:41:46.647 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:41:46.648 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:42:29.033 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:42:29.876 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:42:29.877 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:42:29.878 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:42:29.879 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:42:29.880 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:42:29.881 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:42:29.881 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:42:29.881 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:43:07.160 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:43:08.049 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:43:08.049 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:43:08.050 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:43:08.051 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:43:08.052 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:43:08.053 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:45:14.721 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-24 19:45:15.562 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - STUDENT
+2019-05-24 19:45:15.562 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.CATALOG
+2019-05-24 19:45:15.562 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.FUNCTION
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.SEQUENCE
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - SYSTEM.STATS
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - TEST_INDEX
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - Test
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_rec_info
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_2
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_hou_3
+2019-05-24 19:45:15.563 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_test
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp1
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp2
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - buss_stu_info_tmp3
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - hbase_yl
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpGraduation
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpStageTrainningTime
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jprecinfo-test2
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - jpstuinfo
+2019-05-24 19:45:15.564 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - person
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - pushPolice
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo0424
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190424
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo201904241
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - recinfo20190425
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - student_tmp1
+2019-05-24 19:45:15.565 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190424
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190425
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - stuinfo20190426
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - test
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - user
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_test
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - yl_user1
+2019-05-24 19:45:15.566 [main-33] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 33 loadCoprocessor - ylt1
+2019-05-24 19:46:00.142 [main-21] INFO  com.gjxx.java.hbase.learn.CoprocessorUtil 21 loadCoprocessor - load coprocessor...
+2019-05-27 14:44:21.210 [main-56] INFO  com.gjxx.java.phoenix.PhoenixUtil 56 main - logging...
+2019-05-27 14:46:26.845 [main-56] INFO  com.gjxx.java.phoenix.PhoenixUtil 56 main - start read ...
+2019-05-27 14:49:56.144 [main-56] INFO  com.gjxx.java.phoenix.PhoenixUtil 56 main - start read ...
+2019-05-27 14:50:00.505 [main-58] INFO  com.gjxx.java.phoenix.PhoenixUtil 58 main - end read ...
+2019-05-27 14:50:47.805 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:51:30.569 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:52:09.894 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:52:14.122 [main-59] INFO  com.gjxx.java.phoenix.PhoenixUtil 59 main - end read ...
+2019-05-27 14:52:25.591 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:52:42.925 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:52:47.147 [main-59] INFO  com.gjxx.java.phoenix.PhoenixUtil 59 main - end read ...
+2019-05-27 14:53:43.124 [main-57] INFO  com.gjxx.java.phoenix.PhoenixUtil 57 main - start read ...
+2019-05-27 14:53:47.370 [main-62] INFO  com.gjxx.java.phoenix.PhoenixUtil 62 main - end read ...
+2019-05-27 14:54:36.900 [main-45] INFO  com.gjxx.java.phoenix.PhoenixUtil 45 read - start read ...
+2019-05-27 14:54:39.139 [main-54] INFO  com.gjxx.java.phoenix.PhoenixUtil 54 read - end read ...
+2019-05-27 14:55:01.623 [main-45] INFO  com.gjxx.java.phoenix.PhoenixUtil 45 read - start read ...
+2019-05-27 14:55:04.684 [main-56] INFO  com.gjxx.java.phoenix.PhoenixUtil 56 read - end read ...
+2019-05-27 15:04:57.921 [main-43] INFO  com.gjxx.java.phoenix.PhoenixUtil 43 read - start read ...
+2019-05-27 15:05:00.988 [main-54] INFO  com.gjxx.java.phoenix.PhoenixUtil 54 read - end read ...
+2019-05-27 15:06:31.940 [main-43] INFO  com.gjxx.java.phoenix.PhoenixUtil 43 read - start read ...
+2019-05-27 15:06:34.982 [main-54] INFO  com.gjxx.java.phoenix.PhoenixUtil 54 read - end read ...
+2019-05-27 15:14:00.852 [main-43] INFO  com.gjxx.java.phoenix.PhoenixUtil 43 read - start read ...
+2019-05-27 15:17:08.587 [main-43] INFO  com.gjxx.java.phoenix.PhoenixUtil 43 read - start read ...
+2019-05-27 15:17:11.603 [main-60] INFO  com.gjxx.java.phoenix.PhoenixUtil 60 read - end read ...
+2019-05-27 16:35:18.437 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:1
+2019-05-27 16:35:19.443 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:2
+2019-05-27 16:35:20.443 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:3
+2019-05-27 16:35:21.443 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:4
+2019-05-27 16:35:22.444 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:5
+2019-05-27 16:35:23.445 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:6
+2019-05-27 16:35:24.446 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:7
+2019-05-27 16:35:25.447 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:8
+2019-05-27 16:35:26.449 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:9
+2019-05-27 16:35:27.451 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:10
+2019-05-27 16:35:28.452 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:11
+2019-05-27 16:35:29.453 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:12
+2019-05-27 16:35:30.454 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:13
+2019-05-27 16:35:31.456 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:14
+2019-05-27 16:35:32.457 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:15
+2019-05-27 16:35:33.459 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:16
+2019-05-27 16:35:34.460 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:17
+2019-05-27 16:35:35.460 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:18
+2019-05-27 16:35:36.462 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:19
+2019-05-27 16:35:37.462 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:20
+2019-05-27 16:35:38.462 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:21
+2019-05-27 16:35:39.464 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:22
+2019-05-27 16:35:40.465 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:23
+2019-05-27 16:35:41.465 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:24
+2019-05-27 16:35:42.466 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:25
+2019-05-27 16:35:43.467 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:26
+2019-05-27 16:35:44.469 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:27
+2019-05-27 16:35:45.470 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:28
+2019-05-27 16:35:46.470 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:29
+2019-05-27 16:35:47.472 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:30
+2019-05-27 16:35:48.474 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:31
+2019-05-27 16:35:49.475 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:32
+2019-05-27 16:35:50.476 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:33
+2019-05-27 16:35:51.476 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:34
+2019-05-27 16:35:52.478 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:35
+2019-05-27 16:35:53.478 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:36
+2019-05-27 16:35:54.479 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:37
+2019-05-27 16:35:55.480 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:38
+2019-05-27 16:35:56.481 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:39
+2019-05-27 16:35:57.482 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:40
+2019-05-27 16:36:10.731 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:1
+2019-05-27 16:36:11.736 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:2
+2019-05-27 16:36:12.738 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:3
+2019-05-27 16:36:13.738 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:4
+2019-05-27 16:36:14.739 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:5
+2019-05-27 16:36:15.741 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:6
+2019-05-27 16:36:16.743 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:7
+2019-05-27 16:36:17.744 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:8
+2019-05-27 16:36:18.746 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:9
+2019-05-27 16:36:19.747 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:10
+2019-05-27 16:36:20.749 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:11
+2019-05-27 16:36:21.750 [main-45] INFO  com.gjxx.java.kafka.learn.KafkaUtil 45 send - log dd:12
