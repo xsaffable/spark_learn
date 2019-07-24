@@ -12,6 +12,7 @@ import org.apache.hadoop.hbase.spark.JavaHBaseContext;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
+import org.apache.spark.sql.SparkSession;
 import scala.Tuple2;
 
 import java.io.IOException;
@@ -67,7 +68,19 @@ public class HBaseUtil {
      * @param jsc JavaSparkContext
      * @return JavaHBaseContext
      */
-    public static JavaHBaseContext getHC(JavaSparkContext jsc) {
+    public static JavaHBaseContext getJHC(JavaSparkContext jsc) {
+        return new JavaHBaseContext(jsc, conf);
+    }
+
+    /**
+     * @Author SXS
+     * @Description 根据Spark Session创建JavaHBaseContext
+     * @Date 9:40 2019/7/19
+     * @Param [sparkSession]
+     * @return org.apache.hadoop.hbase.spark.JavaHBaseContext
+     */
+    public static JavaHBaseContext getJHC(SparkSession sparkSession) {
+        JavaSparkContext jsc = new JavaSparkContext(sparkSession.sparkContext());
         return new JavaHBaseContext(jsc, conf);
     }
 
