@@ -49,7 +49,10 @@
         <phoenix.version>4.7.0-HBase-1.1</phoenix.version>
         <elasticsearch.version>7.1.1</elasticsearch.version>
         <breeze.version>0.13.2</breeze.version>
-        <scope.value>provided</scope.value>
+
+        <flink.version>1.7.1</flink.version>
+
+        <scope.value>compile</scope.value>
     </properties>
 
     <!--配置远程仓库-->
@@ -197,6 +200,23 @@
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <version>4.5.2</version>
+        </dependency>
+
+        <!--flink-->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-java</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-streaming-java_${scala.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-clients_${scala.version}</artifactId>
+            <version>${flink.version}</version>
         </dependency>
 
     </dependencies>
