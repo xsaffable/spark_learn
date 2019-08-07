@@ -12,11 +12,20 @@ public interface SparkConf {
     /**
      * 测试使用的master
      */
-    String MASTER_TEST = "spark";
+    String MASTER = "local[8]";
+
+//    /**
+//     * 正式环境使用的master
+//     */
+//    String MASTER = null;
 
     /**
-     * 正式环境使用的master
+     * @Author SXS
+     * @Description app name
+     * @Date 9:42 2019/7/19
+     * @Param
+     * @return
      */
-    String MASTER = null;
+    String APP_NAME = "sparkProgram";
 
 }

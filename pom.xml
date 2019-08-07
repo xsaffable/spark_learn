@@ -207,15 +207,25 @@
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-java</artifactId>
             <version>${flink.version}</version>
+            <scope>${scope.value}</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-streaming-java_${scala.version}</artifactId>
             <version>${flink.version}</version>
+            <scope>${scope.value}</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.flink</groupId>
             <artifactId>flink-clients_${scala.version}</artifactId>
+            <version>${flink.version}</version>
+            <scope>${scope.value}</scope>
+        </dependency>
+
+        <!--flink连接kafka-->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-connector-kafka-0.10_${scala.version}</artifactId>
             <version>${flink.version}</version>
         </dependency>
 
