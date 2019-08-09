@@ -4,7 +4,6 @@ import org.apache.spark.Partitioner;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
-import org.apache.spark.api.java.function.Function2;
 import scala.Serializable;
 import scala.Tuple2;
 
@@ -69,6 +68,12 @@ public class SecondarySort {
         return new Tuple2<>(t2._1._1, t2._1._2.toString());
     }
 
+    /**
+     * 聚合
+     * @param v1 val1
+     * @param v2 val2
+     * @return val1, val2
+     */
     private static String reduce(String v1, String v2) {
         return v1 + "," + v2;
     }
