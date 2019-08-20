@@ -1,4 +1,4 @@
-package com.gjxx.java.spark.learn.secondary_sort;
+package com.gjxx.java.spark.learn.secondarysort;
 
 import org.apache.spark.Partitioner;
 import org.apache.spark.api.java.JavaPairRDD;

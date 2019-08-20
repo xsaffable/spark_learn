@@ -1,4 +1,4 @@
-package com.gjxx.java.spark.learn.left_out_join;
+package com.gjxx.java.spark.learn.leftoutjoin;
 
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
