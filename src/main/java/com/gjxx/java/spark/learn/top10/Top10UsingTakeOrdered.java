@@ -1,4 +1,4 @@
-package com.gjxx.java.spark.learn;
+package com.gjxx.java.spark.learn.top10;
 
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
