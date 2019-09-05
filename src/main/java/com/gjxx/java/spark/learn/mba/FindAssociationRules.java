@@ -28,9 +28,9 @@ public class FindAssociationRules {
         // 规约频繁模式
         JavaPairRDD<List<String>, Integer> combined = patterns.reduceByKey(Integer::sum);
         // 生成所有子模式
-        JavaPairRDD<List<String>, Tuple2<List<String>, Integer>> subpatterns = combined.flatMapToPair(FindAssociationRules.subpatterns);
+        JavaPairRDD<List<String>, Tuple2<List<String>, Integer>> subPatterns = combined.flatMapToPair(FindAssociationRules.subPatterns);
         // 组合子模式
-        JavaPairRDD<List<String>, Iterable<Tuple2<List<String>, Integer>>> rules = subpatterns.groupByKey();
+        JavaPairRDD<List<String>, Iterable<Tuple2<List<String>, Integer>>> rules = subPatterns.groupByKey();
         // 生成关联规则
         JavaRDD<List<Tuple3<List<String>, List<String>, Double>>> assocRules = rules.map(rulesToAssocRules);
 
@@ -65,6 +65,7 @@ public class FindAssociationRules {
         }
         // 使用三个对象创建关联规则
         for (Tuple2<List<String>, Integer> t2 : toList) {
+            assert fromCount != null;
             double confidence = (double) t2._2 / (double) fromCount._2;
             List<String> t2List = new ArrayList<>(t2._1);
             t2List.removeAll(fromList);
@@ -76,7 +77,7 @@ public class FindAssociationRules {
     /**
      * 生成所有子模式
      */
-    private static PairFlatMapFunction<Tuple2<List<String>, Integer>, List<String>, Tuple2<List<String>, Integer>> subpatterns = pattern -> {
+    private static PairFlatMapFunction<Tuple2<List<String>, Integer>, List<String>, Tuple2<List<String>, Integer>> subPatterns = pattern -> {
         List<Tuple2<List<String>, Tuple2<List<String>, Integer>>> result = new ArrayList<>();
         List<String> list = pattern._1;
         Integer frequency = pattern._2;
