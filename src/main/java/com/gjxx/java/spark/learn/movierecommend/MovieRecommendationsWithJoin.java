@@ -38,28 +38,28 @@ public class MovieRecommendationsWithJoin {
         JavaRDD<String> usersRatings = jsc.textFile(usersRatingsInputFile);
 
         // 步骤5: 找出谁曾对这个电影评分
-        JavaPairRDD<String, Tuple2<String, Integer>> moviesRDD = usersRatings.mapToPair(str2t2);
+        JavaPairRDD<String, Tuple2<String, Integer>> moviesRdd = usersRatings.mapToPair(str2t2);
 
         // 步骤6: 按movie对moviesRDD分组
-        JavaPairRDD<String, Iterable<Tuple2<String, Integer>>> moviesGrouped = moviesRDD.groupByKey();
+        JavaPairRDD<String, Iterable<Tuple2<String, Integer>>> moviesGrouped = moviesRdd.groupByKey();
 
         // 步骤7: 找出每个电影的评分人数
-        JavaPairRDD<String, Tuple3<String, Integer, Integer>> usersRDD = moviesGrouped.flatMapToPair(moviesGrouped2Users);
+        JavaPairRDD<String, Tuple3<String, Integer, Integer>> usersRdd = moviesGrouped.flatMapToPair(moviesGrouped2Users);
 
         // 步骤8: 完成自连接
-        JavaPairRDD<String, Tuple2<Tuple3<String, Integer, Integer>, Tuple3<String, Integer, Integer>>> joinedRDD = usersRDD.join(usersRDD);
+        JavaPairRDD<String, Tuple2<Tuple3<String, Integer, Integer>, Tuple3<String, Integer, Integer>>> joinedRdd = usersRdd.join(usersRdd);
 
         // 步骤9: 删除重复(movie1, movie2)对
-        JavaPairRDD<String, Tuple2<Tuple3<String, Integer, Integer>, Tuple3<String, Integer, Integer>>> filteredRDD = joinedRDD.filter(delDuplicate);
+        JavaPairRDD<String, Tuple2<Tuple3<String, Integer, Integer>, Tuple3<String, Integer, Integer>>> filteredRdd = joinedRdd.filter(delDuplicate);
 
         // 步骤10: 生成所有(movie1, movie2)组合
-        JavaPairRDD<Tuple2<String, String>, Tuple7<Integer, Integer, Integer, Integer, Integer, Integer, Integer>> moviePairs = filteredRDD.mapToPair(fil2all);
+        JavaPairRDD<Tuple2<String, String>, Tuple7<Integer, Integer, Integer, Integer, Integer, Integer, Integer>> moviePairs = filteredRdd.mapToPair(fil2all);
 
         // 步骤11: 电影对分组
-        JavaPairRDD<Tuple2<String, String>, Iterable<Tuple7<Integer, Integer, Integer, Integer, Integer, Integer, Integer>>> corrRDD = moviePairs.groupByKey();
+        JavaPairRDD<Tuple2<String, String>, Iterable<Tuple7<Integer, Integer, Integer, Integer, Integer, Integer, Integer>>> corrRdd = moviePairs.groupByKey();
 
         // 步骤12: 计算关联度
-        JavaPairRDD<Tuple2<String, String>, Tuple3<Double, Double, Double>> corr = corrRDD.mapValues(MovieRecommendationsWithJoin.corr);
+        JavaPairRDD<Tuple2<String, String>, Tuple3<Double, Double, Double>> corr = corrRdd.mapValues(MovieRecommendationsWithJoin.corr);
 
         corr.collect().forEach(System.out::println);
 
