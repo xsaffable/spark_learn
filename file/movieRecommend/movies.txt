@@ -1,0 +1,15 @@
+User1 Movie1 3
+User1 Movie2 4
+User1 Movie3 3
+User2 Movie1 2
+User2 Movie2 5
+User2 Movie3 3
+User2 Movie5 5
+User3 Movie1 2
+User3 Movie2 3
+User3 Movie3 2
+User4 Movie1 5
+User4 Movie2 3
+User4 Movie3 3
+User4 Movie4 2
+User4 Movie5 3
